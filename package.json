@@ -18,7 +18,7 @@
     "react-dom": "^19.2.5",
     "react-router-dom": "^7.14.0",
     "style-loader": "^4.0.0",
-    "webpack": "^5.106.2",
+    "webpack": "^5.107.2",
     "webpack-cli": "^7.0.2",
     "webpack-dev-server": "^5.2.3"
   }
